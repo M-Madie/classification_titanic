@@ -1,4 +1,4 @@
-# Classification - Titanic Project
+# Logestic Regression Classification - Titanic Project
 
 This repository contains one of my first projects as a data science student taken from my student repo (copy of finalized files) - an exploration of the well known titanic data set (https://www.kaggle.com/c/titanic) and the development of a predictive model.
 
